@@ -29,3 +29,8 @@ git merge feature/readme-update
 git push origin main
 
 git log --oneline --graph --all
+
+## Team Lead Instructions
+- Keep commits small and meaningful.
+- Use feature branches for new work.
+- Pull remote changes before starting new tasks.
